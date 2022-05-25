@@ -1,5 +1,6 @@
 ---
 title: "Copyright Object | Microsoft Docs"
+description: Describes the Copyright object, which is a GeoData API boundary's copyright object, and provides its properties.
 ms.custom: ""
 ms.date: "02/28/2018"
 ms.reviewer: ""
